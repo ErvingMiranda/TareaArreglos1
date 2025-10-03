@@ -1,4 +1,17 @@
 ﻿using System;
+/*Enunciado:
+Una clínica asigna 20 turnos diarios. Los pacientes se registran con su edad. El objetivo es analizar la distribución de edades.
+Problema a resolver:
+1.	Ingresar las edades de 20 pacientes.
+2.	Clasificar en grupos:
+•	Niños (0–12)
+•	Jóvenes (13–25)
+•	Adultos (26–60)
+•	Mayores (>60)
+3.	Mostrar cuántos hay en cada grupo.
+4.	Detectar si hay más de 5 personas mayores (alerta por alto riesgo).
+5.	Calcular la edad promedio general y por grupo.
+*/
 
 class GestionTurnosClinica
 {

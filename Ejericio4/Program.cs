@@ -1,5 +1,18 @@
 ﻿using System;
 using System.Text.RegularExpressions;
+/*Enunciado:
+Crea dos arreglos unidimensionales que tengan el mismo tamaño (lo pedirá por teclado), en uno de ellos almacenaras nombres de personas como cadenas, en el otro arreglo ira almacenando la longitud de los nombres. Muestra por pantalla el nombre y la longitud que tiene.
+•	Validación del nombre ingresado
+Asegúrate de que:
+•	El nombre no esté vacío.
+•	No contenga números ni símbolos.
+•	Sea mayor a 2 caracteres.
+•	Mostrar clasificación por longitud
+Clasifica los nombres en:
+•	Cortos (1 – 4 letras)
+•	Medios (5 – 7 letras)
+•	Largos (8 + letras)
+*/
 
 class ProgramaLongitudNombres
 {

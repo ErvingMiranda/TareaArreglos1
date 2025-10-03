@@ -1,6 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+/*Enunciado:
+Un colegio realiza una elección estudiantil con 5 candidatos. Se registran 100 votos numéricos (entre 1 y 5).
+Problema a resolver:
+1.	Generar un arreglo con 100 votos (puede ser ingresado o aleatorio).
+2.	Contar cuántos votos obtuvo cada candidato.
+3.	Determinar:
+•	Candidato ganador.
+•	Si hay empate, mostrar quiénes empataron.
+4.	Calcular porcentaje de votos de cada candidato.
+5.	Validar que todos los votos sean válidos (entre 1 y 5), descartando inválidos si se da el caso.
+*/
 
 class SimuladorVotaciones
 {
@@ -40,9 +51,11 @@ class SimuladorVotaciones
                         votos[i] = voto;
                         break;
                     }
+
                     else
                     {
-                        MostrarMensaje("Voto inválido. Debe ser un número entre 1 y 5.", ConsoleColor.Red);
+                        MostrarMensaje("Voto inválido. Debe ser un número entre 1 y 5, intente nuevamente el mismo voto.", ConsoleColor.Red);
+                        
                     }
                 }
             }
@@ -56,11 +69,7 @@ class SimuladorVotaciones
             }
             MostrarMensaje("Votos generados aleatoriamente.", ConsoleColor.Green);
         }
-        else
-        {
-            MostrarMensaje("Modo no válido. Regresando al menú principal.", ConsoleColor.Red);
-            return;
-        }
+
 
         int[] conteo = new int[5];
         int votosValidos = 0;
