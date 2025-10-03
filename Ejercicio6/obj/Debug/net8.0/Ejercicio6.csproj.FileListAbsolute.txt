@@ -1,0 +1,14 @@
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\bin\Debug\net8.0\Ejercicio6.exe
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\bin\Debug\net8.0\Ejercicio6.deps.json
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\bin\Debug\net8.0\Ejercicio6.runtimeconfig.json
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\bin\Debug\net8.0\Ejercicio6.dll
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\bin\Debug\net8.0\Ejercicio6.pdb
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\obj\Debug\net8.0\Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\obj\Debug\net8.0\Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\obj\Debug\net8.0\Ejercicio6.AssemblyInfo.cs
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\obj\Debug\net8.0\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\obj\Debug\net8.0\Ejercicio6.dll
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\obj\Debug\net8.0\refint\Ejercicio6.dll
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\obj\Debug\net8.0\Ejercicio6.pdb
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\obj\Debug\net8.0\Ejercicio6.genruntimeconfig.cache
+C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\ExamenProgEstr24\EjerciciosArreglosViernes\Ejercicio6\obj\Debug\net8.0\ref\Ejercicio6.dll
