@@ -1,0 +1,14 @@
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\bin\Debug\net8.0\Ejercicio4, logitud de cadena.exe
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\bin\Debug\net8.0\Ejercicio4, logitud de cadena.deps.json
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\bin\Debug\net8.0\Ejercicio4, logitud de cadena.runtimeconfig.json
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\bin\Debug\net8.0\Ejercicio4, logitud de cadena.dll
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\bin\Debug\net8.0\Ejercicio4, logitud de cadena.pdb
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\obj\Debug\net8.0\Ejercicio4, logitud de cadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\obj\Debug\net8.0\Ejercicio4, logitud de cadena.AssemblyInfoInputs.cache
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\obj\Debug\net8.0\Ejercicio4, logitud de cadena.AssemblyInfo.cs
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\obj\Debug\net8.0\Ejercicio4, logitud de cadena.csproj.CoreCompileInputs.cache
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\obj\Debug\net8.0\Ejercicio4, logitud de cadena.dll
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\obj\Debug\net8.0\refint\Ejercicio4, logitud de cadena.dll
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\obj\Debug\net8.0\Ejercicio4, logitud de cadena.pdb
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\obj\Debug\net8.0\Ejercicio4, logitud de cadena.genruntimeconfig.cache
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio4, logitud de cadena\Ejercicio4, logitud de cadena\obj\Debug\net8.0\ref\Ejercicio4, logitud de cadena.dll

@@ -1,0 +1,14 @@
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\bin\Debug\net8.0\Ejercicio 5, gestión de turnos.exe
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\bin\Debug\net8.0\Ejercicio 5, gestión de turnos.deps.json
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\bin\Debug\net8.0\Ejercicio 5, gestión de turnos.runtimeconfig.json
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\bin\Debug\net8.0\Ejercicio 5, gestión de turnos.dll
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\bin\Debug\net8.0\Ejercicio 5, gestión de turnos.pdb
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\obj\Debug\net8.0\Ejercicio 5, gestión de turnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\obj\Debug\net8.0\Ejercicio 5, gestión de turnos.AssemblyInfoInputs.cache
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\obj\Debug\net8.0\Ejercicio 5, gestión de turnos.AssemblyInfo.cs
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\obj\Debug\net8.0\Ejercicio 5, gestión de turnos.csproj.CoreCompileInputs.cache
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\obj\Debug\net8.0\Ejercicio 5, gestión de turnos.dll
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\obj\Debug\net8.0\refint\Ejercicio 5, gestión de turnos.dll
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\obj\Debug\net8.0\Ejercicio 5, gestión de turnos.pdb
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\obj\Debug\net8.0\Ejercicio 5, gestión de turnos.genruntimeconfig.cache
+C:\Users\ferza\Desktop\ejercicios clase\Ejercicio 5, gestión de turnos\Ejercicio 5, gestión de turnos\obj\Debug\net8.0\ref\Ejercicio 5, gestión de turnos.dll
