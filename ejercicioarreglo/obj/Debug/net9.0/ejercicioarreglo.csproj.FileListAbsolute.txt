@@ -1,0 +1,14 @@
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\bin\Debug\net9.0\ejercicioarreglo.exe
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\bin\Debug\net9.0\ejercicioarreglo.deps.json
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\bin\Debug\net9.0\ejercicioarreglo.runtimeconfig.json
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\bin\Debug\net9.0\ejercicioarreglo.dll
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\bin\Debug\net9.0\ejercicioarreglo.pdb
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\obj\Debug\net9.0\ejercicioarreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\obj\Debug\net9.0\ejercicioarreglo.AssemblyInfoInputs.cache
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\obj\Debug\net9.0\ejercicioarreglo.AssemblyInfo.cs
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\obj\Debug\net9.0\ejercicioarreglo.csproj.CoreCompileInputs.cache
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\obj\Debug\net9.0\ejercicioarreglo.dll
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\obj\Debug\net9.0\refint\ejercicioarreglo.dll
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\obj\Debug\net9.0\ejercicioarreglo.pdb
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\obj\Debug\net9.0\ejercicioarreglo.genruntimeconfig.cache
+C:\Users\Aguir\OneDrive\Documentos\programación\ejercicioarreglo\obj\Debug\net9.0\ref\ejercicioarreglo.dll
