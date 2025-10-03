@@ -1,0 +1,15 @@
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\bin\Debug\net9.0\ArreglosIntercalados.exe
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\bin\Debug\net9.0\ArreglosIntercalados.deps.json
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\bin\Debug\net9.0\ArreglosIntercalados.runtimeconfig.json
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\bin\Debug\net9.0\ArreglosIntercalados.dll
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\bin\Debug\net9.0\ArreglosIntercalados.pdb
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\obj\Debug\net9.0\ArreglosIntercalados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\obj\Debug\net9.0\ArreglosIntercalados.AssemblyInfoInputs.cache
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\obj\Debug\net9.0\ArreglosIntercalados.AssemblyInfo.cs
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\obj\Debug\net9.0\ArreglosIntercalados.csproj.CoreCompileInputs.cache
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\obj\Debug\net9.0\ArreglosIntercalados.sourcelink.json
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\obj\Debug\net9.0\ArreglosIntercalados.dll
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\obj\Debug\net9.0\refint\ArreglosIntercalados.dll
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\obj\Debug\net9.0\ArreglosIntercalados.pdb
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\obj\Debug\net9.0\ArreglosIntercalados.genruntimeconfig.cache
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ArreglosIntercalados\obj\Debug\net9.0\ref\ArreglosIntercalados.dll

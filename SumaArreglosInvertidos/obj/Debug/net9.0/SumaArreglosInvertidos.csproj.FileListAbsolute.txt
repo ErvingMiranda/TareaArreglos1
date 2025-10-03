@@ -1,0 +1,15 @@
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\bin\Debug\net9.0\SumaArreglosInvertidos.exe
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\bin\Debug\net9.0\SumaArreglosInvertidos.deps.json
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\bin\Debug\net9.0\SumaArreglosInvertidos.runtimeconfig.json
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\bin\Debug\net9.0\SumaArreglosInvertidos.dll
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\bin\Debug\net9.0\SumaArreglosInvertidos.pdb
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\obj\Debug\net9.0\SumaArreglosInvertidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\obj\Debug\net9.0\SumaArreglosInvertidos.AssemblyInfoInputs.cache
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\obj\Debug\net9.0\SumaArreglosInvertidos.AssemblyInfo.cs
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\obj\Debug\net9.0\SumaArreglosInvertidos.csproj.CoreCompileInputs.cache
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\obj\Debug\net9.0\SumaArreglosInvertidos.sourcelink.json
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\obj\Debug\net9.0\SumaArreglosInvertidos.dll
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\obj\Debug\net9.0\refint\SumaArreglosInvertidos.dll
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\obj\Debug\net9.0\SumaArreglosInvertidos.pdb
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\obj\Debug\net9.0\SumaArreglosInvertidos.genruntimeconfig.cache
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\SumaArreglosInvertidos\obj\Debug\net9.0\ref\SumaArreglosInvertidos.dll

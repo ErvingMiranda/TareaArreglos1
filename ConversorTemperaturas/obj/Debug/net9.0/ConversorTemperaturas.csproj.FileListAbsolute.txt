@@ -1,0 +1,15 @@
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\bin\Debug\net9.0\ConversorTemperaturas.exe
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\bin\Debug\net9.0\ConversorTemperaturas.deps.json
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\bin\Debug\net9.0\ConversorTemperaturas.runtimeconfig.json
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\bin\Debug\net9.0\ConversorTemperaturas.dll
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\bin\Debug\net9.0\ConversorTemperaturas.pdb
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\obj\Debug\net9.0\ConversorTemperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\obj\Debug\net9.0\ConversorTemperaturas.AssemblyInfoInputs.cache
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\obj\Debug\net9.0\ConversorTemperaturas.AssemblyInfo.cs
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\obj\Debug\net9.0\ConversorTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\obj\Debug\net9.0\ConversorTemperaturas.dll
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\obj\Debug\net9.0\refint\ConversorTemperaturas.dll
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\obj\Debug\net9.0\ConversorTemperaturas.pdb
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\obj\Debug\net9.0\ConversorTemperaturas.genruntimeconfig.cache
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\obj\Debug\net9.0\ref\ConversorTemperaturas.dll
+C:\Users\ervin\Documents\2doSemestre\ProgramaciónEstructurada\Tareas\TareaArreglos1\ConversorTemperaturas\obj\Debug\net9.0\ConversorTemperaturas.sourcelink.json
