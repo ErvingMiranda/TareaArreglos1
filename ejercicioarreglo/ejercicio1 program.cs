@@ -54,21 +54,34 @@ public class ConversorTemperaturas
             // 1. Solicitud de temperaturas y almacenamiento
             for (int i = 0; i < NumeroDeDias; i++)
             {
-                Console.Write($"Ingresa la temperatura del {diasSemana[i]} (en °C): ");
-                string input = Console.ReadLine();
+                bool entradaValida = false;
+                while (!entradaValida)
+                {
+                    Console.Write($"Ingresa la temperatura del {diasSemana[i]} (en °C) [-100 a 60]: ");
+                    string input = Console.ReadLine();
 
-                if (double.TryParse(input, out double tempC))
-                {
-                    temperaturasCelsius[i] = tempC;
-                    // Conversión de Celsius a Fahrenheit: F = (C * 9/5) + 32
-                    temperaturasFahrenheit[i] = (tempC * 9 / 5) + 32;
-                }
-                else
-                {
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.WriteLine("Entrada inválida. Por favor, ingresa un número válido.");
-                    Console.ResetColor();
-                    i--; // Retrocede el contador para reintentar la entrada del mismo día
+                    if (double.TryParse(input, out double tempC))
+                    {
+                        if (tempC < -100 || tempC > 60)
+                        {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            Console.WriteLine("La temperatura debe estar entre -100 y 60 °C. Intenta de nuevo.");
+                            Console.ResetColor();
+                        }
+                        else
+                        {
+                            temperaturasCelsius[i] = tempC;
+                            // Conversión de Celsius a Fahrenheit: F = (C * 9/5) + 32
+                            temperaturasFahrenheit[i] = (tempC * 9 / 5) + 32;
+                            entradaValida = true;
+                        }
+                    }
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.WriteLine("Entrada inválida. Por favor, ingresa un número válido.");
+                        Console.ResetColor();
+                    }
                 }
             }
 
